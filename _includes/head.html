@@ -12,12 +12,15 @@
   <meta name="baseurl" content="{{ site.baseurl }}">
 
   <title>
+  
     {% if page.title != "index" %}
         {{ site.title }}|{{ page.title }}
     {% else %}
         {{ site.title }}
     {% endif %}
+  
   </title>
+  
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ "/static/assets/img/favicon.ico" | prepend: site.baseurl }}">
 
@@ -38,3 +41,5 @@
     });
   </script>
 </head>
+
+
