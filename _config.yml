@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name:       Takashi Yoshioka  # Be used at blog posts' author.
   first_name: Takashi  # Be used at index page about me section.
   last_name:  Yoshioka  # Be used at index page about me section.
-  avatar:     /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar:     /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: takagotch  # Leave blank if you don't have now
   linkedin_id:     yoshiokatakashi # Leave blank if you don't have now
   facebook_username: takagotch  # Leave blank if you don't have now
