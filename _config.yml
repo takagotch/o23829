@@ -11,16 +11,16 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Takashi Yoshioka  # Be used at blog posts' author.
+  name:       Takashi Yoshioka  # Be used at blog posts' author.
   first_name: Takashi  # Be used at index page about me section.
-  last_name: Yoshioka  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  last_name:  Yoshioka  # Be used at index page about me section.
+  avatar:     /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: takagotch  # Leave blank if you don't have now
-  linkedin_id: yoshiokatakashi # Leave blank if you don't have now
+  linkedin_id:     yoshiokatakashi # Leave blank if you don't have now
   facebook_username: takagotch  # Leave blank if you don't have now
-  twitter_username: takagotch  # Leave blank if you don't have now
-  email: takagotch@activated.sakura.ne.jp  # Leave blank if you don't have now
-  cv: http://tkvtv.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  twitter_username:  takagotch  # Leave blank if you don't have now
+  email:             takagotch@activated.sakura.ne.jp  # Leave blank if you don't have now
+  cv:                http://tkvtv.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
