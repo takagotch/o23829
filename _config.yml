@@ -30,6 +30,10 @@ author:  # change following line to your infomation.
     - name: icon-apache
   desc: Introduce myself will be here.  # Describe yourself.
 
+
+links: Access
+
+
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: takagotch
