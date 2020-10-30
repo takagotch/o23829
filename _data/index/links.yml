@@ -1,18 +1,18 @@
 # links section data
-- last_name: Takashi Yoshioka
-  first_name:
-  desc: CEO
+- last_name: Nanko
+  first_name: osaka, JP
+  desc: head quarter
   website: https://tkvtv.com
   email: takagotch@activated.sakura.ne.jp
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: kitahama
+  first_name: osaka, JP
+  desc: Sales office
+  website: http://twitter.com/takagotch
+  email: me@twitter.com
 
-- last_name: Takagotch
-  first_name: Tkgcci
-  desc: COO
+- last_name: Hommachi
+  first_name: osaka, JP
+  desc: Support office
   website: https://github.com/takagoch
   email: fb.me@facebook.com
