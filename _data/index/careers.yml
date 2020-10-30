@@ -4,7 +4,7 @@
     detail: Activate-d
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at Activate-d ...
     i18n: company_a_desc
   date:
     detail: Apr. 2020
@@ -19,7 +19,7 @@
     detail: Tkvtv
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Tkvtv also...
     i18n: company_b_desc
   date:
     detail: Jun. 2020
