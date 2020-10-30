@@ -10,7 +10,7 @@
     detail: Apr. 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: CTO, Full Stack Developer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -25,7 +25,7 @@
     detail: Jun. 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: CEO, Merketing & Consulting, Fictional character
     i18n: company_b_job
   icon: fa-plus-square
 
