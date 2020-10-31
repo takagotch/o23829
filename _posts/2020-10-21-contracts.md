@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "契約プラン"
-date:   2020-10-31
+date:   2020-10-21
 desc: "最新スマートフォンの販売価格と配送料。"
 keywords: "smartphone,iphone,google,pixel,4a,5G"
 categories: [Apple]
