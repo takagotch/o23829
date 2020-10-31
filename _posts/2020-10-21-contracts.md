@@ -9,12 +9,29 @@ tags: [sp,mobile]
 icon: icon-html
 ---
 
-This is a raw snippet:
+iPhone12:
 
 ```
-hello world
-123
-This is a text snippet
+iPhone 12
+6.1インチディスプレイ1
+ 
+カラー
+ホワイト
+ブラック
+ブルー
+グリーン
+PRODUCT(RED)
+
+容量
+64GB
+128GB
+256GB
+
+価格
+94,380円
+99,880円
+111,980円
+
 ```
 
 
