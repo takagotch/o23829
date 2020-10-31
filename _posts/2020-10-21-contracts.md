@@ -114,9 +114,9 @@ PRODUCT(RED)
 
 
 
-Side note comment: applied a bug fix similar to 
-[this commit](https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9)
-to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked 
+送料無料
+[ヤマト運輸　伝票番号](https://toi.kuronekoyamato.co.jp/cgi-bin/tneko)
+注文から1～2日以内に発送したします。
 [here](https://github.com/jarrekk/Jalpc/issues/97).
 
 
