@@ -50,7 +50,7 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
 
 ## google optimize
 go:
-  # id:
+  id: OPT-NDBM6SZ
 
 ## growingIO
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
