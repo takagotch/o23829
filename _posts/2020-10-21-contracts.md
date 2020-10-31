@@ -114,10 +114,17 @@ PRODUCT(RED)
 
 
 
-送料無料
+送料無料：　送料負担（当社が負担）。海外発送、対応しません。
 [ヤマト運輸　伝票番号](https://toi.kuronekoyamato.co.jp/cgi-bin/tneko)
-注文から1～2日以内に発送したします。
-[here](https://github.com/jarrekk/Jalpc/issues/97).
+支払い手続きから1～2日で発送いたします。
+
+商品の状態
+新品・未開封
+国内正規流通品のみを販売しています。
+
+支払い方法
+クレジットカード
+[Paypal](https://www.paypal.com/jp/signin?country.x=JP&locale.x=ja_JP).
 
 
 
