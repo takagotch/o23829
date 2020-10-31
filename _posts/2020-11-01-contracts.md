@@ -9,7 +9,7 @@ categories: [Google]
 icon: icon-html
 ---
 
-iPhone12:
+Google Pixel5:
 
 ```
 iPhone 12
@@ -36,7 +36,7 @@ PRODUCT(RED)
 
 
 
-iPhone 12 Pro:
+Google Pixel 4a 5G:
 
 ```
 iPhone 12
@@ -59,7 +59,7 @@ iPhone 12
 111,980円
 ```
 
-iPhone12 Pro Max:
+Google Pixel 4a:
 
 ```
 iPhone 12 Pro Max
@@ -82,6 +82,8 @@ iPhone 12 Pro Max
 165,880円
 
 ```
+
+
 
 iPhone12 mini:
 
