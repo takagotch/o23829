@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Pixel 公式販売店"
-date:   2020-10-31
+date:   2020-11-01
 desc: "最新スマートフォンの販売価格と配送料。"
 keywords: "smartphone,iphone,google,pixel,4a,5G"
 categories: [Google]
