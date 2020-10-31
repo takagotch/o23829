@@ -36,27 +36,54 @@ PRODUCT(RED)
 
 
 
-This is a JavaScript snippet:
+iPhone 12 Pro:
 
 ```
-const add = (a, b) => a + b
-const minus = (a, b) => a - b
+iPhone 12
+6.1インチディスプレイ
+ 
+カラー
+ホワイト
+ブラック
+ブルー
+グリーン
+PRODUCT(RED)
 
-console.log(add(100,200))  // 300
-console.log(minus(100,200))  // -100
+容量
+64GB
+128GB
+256GB
+
+価格
+94,380円
+99,880円
+111,980円
 ```
 
-This is a Python snippet:
+iPhone12 Pro Max:
 
 ```
-def say_hello():
-    print("hello world!")
+iPhone 12 Pro Max
+6.7インチディスプレイ
+ 
+カラー
+ホワイト
+ブラック
+ブルー
+グリーン
+PRODUCT(RED)
 
-say_hello()   // "hello world!"
+容量
+64GB
+128GB
+256GB
+
+価格
+82,280円
+87,780円
+99,880円
+
 ```
-
-
-
 
 iPhone12 mini:
 
