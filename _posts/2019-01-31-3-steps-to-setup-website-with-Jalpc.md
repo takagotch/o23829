@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
+title:  "販売促進・取扱説明書"
 date:   2019-01-31
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
+desc: "購入から発送受け取りまでの流れを説明しています。"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
