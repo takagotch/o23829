@@ -55,6 +55,36 @@ def say_hello():
 say_hello()   // "hello world!"
 ```
 
+
+
+
+iPhone12 mini:
+
+```
+iPhone 12 mini
+5.4インチディスプレイ
+ 
+カラー
+ホワイト
+ブラック
+ブルー
+グリーン
+PRODUCT(RED)
+
+容量
+64GB
+128GB
+256GB
+
+価格
+82,280円
+87,780円
+99,880円
+
+```
+
+
+
 ---
 
 
