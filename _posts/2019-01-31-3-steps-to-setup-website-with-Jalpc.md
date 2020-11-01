@@ -4,7 +4,7 @@ title:  "販売促進・取扱説明書"
 date:   2019-01-31
 desc: "購入から発送受け取りまでの流れを説明しています。"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+categories: [契約プラン]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
